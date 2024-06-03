@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestBanqueVS", "GestBanqueVS\GestBanqueVS.csproj", "{B27F2D0C-FE33-432C-B901-061F93634177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestBanqueVS.Models", "GestBanqueVS.Models\GestBanqueVS.Models.csproj", "{43AD7298-C042-41DC-97BF-B5AD343222ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27F2D0C-FE33-432C-B901-061F93634177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27F2D0C-FE33-432C-B901-061F93634177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27F2D0C-FE33-432C-B901-061F93634177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27F2D0C-FE33-432C-B901-061F93634177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43AD7298-C042-41DC-97BF-B5AD343222ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AD7298-C042-41DC-97BF-B5AD343222ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AD7298-C042-41DC-97BF-B5AD343222ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AD7298-C042-41DC-97BF-B5AD343222ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C32A9D-DBCB-469A-9D90-356572768CD2}
+	EndGlobalSection
+EndGlobal
